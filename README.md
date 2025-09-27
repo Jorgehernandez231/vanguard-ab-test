@@ -1,7 +1,7 @@
 # Vanguard A/B Test Analysis
 
 
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/vanguard-ab-test)]()
+[![Last Commit](https://github.com/Jorgehernandez231/vanguard-ab-test)]()
 
 This project analyzes an **A/B test** conducted on Vanguard’s online platform.  
 The objective is to evaluate how the new design impacts **completion rates, error rates, and user engagement**, with special attention to **primary clients (top 10% by balance)**.
